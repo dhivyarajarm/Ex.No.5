@@ -1,5 +1,5 @@
 ## Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
-NAME:R.DHIVYA
+## NAME:R.DHIVYA
 
 ### AIM
 
